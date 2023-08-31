@@ -1,4 +1,3 @@
-# lhq.github.io
 # 🎨 前言
 
 !> <b>说明</b>：做一个有趣的爱分享的人，记录本科及研究生阶段所学的计算机专业知识，力求构建「AI & CS & SE」知识体系。如果你喜欢这个文档网站欢迎到 [GitHub](https://github.com/wugenqiang/NoteBook) 点个 Star，或者交换[友链](https://notebook.js.org/#/Friends/) ( •̀ ω •́ )✧🔑
